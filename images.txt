@@ -13,5 +13,6 @@ vulhub/thinkphp:2.1
 sanluan/publiccms:V4.0.202302.e
 nginx:stable
 mysql:latest
+vulhub/php:5.5-apache
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
